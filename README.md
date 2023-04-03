@@ -1,2 +1,3 @@
-# an-imperial-metric-converter
- A full stack JavaScript app that converts Gallons, Liters, Miles, Kilometers, Pounds, Kilograms to Liters, Gallons, Kilometers, Miles, Kilograms and Pounds respectively Using Express and Chai, Chai-http(for tests passing), Mocha amongst Others
+# Metric-Imperial Converter
+
+This is the boilerplate for the Metric-Imperial Converter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter
